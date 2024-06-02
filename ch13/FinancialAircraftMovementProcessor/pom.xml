@@ -13,5 +13,10 @@
         <module>System</module>
         <module>FinancialAircraftMovementProcessor</module>
     </modules>
-
+    <parent>
+        <groupId>com.oracle.adf</groupId>
+        <artifactId>adf-parent</artifactId>
+        <version>12.2.1-4-0</version>
+        <relativePath></relativePath>
+    </parent>
 </project>
